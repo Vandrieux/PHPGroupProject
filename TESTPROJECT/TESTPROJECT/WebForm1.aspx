@@ -13,6 +13,7 @@
         hello everyone
         blahhhhhh!bllaahhhhhhh!!!
         jahassayubdbsahsa!!!
+        <asp:CheckBox ID="CheckBox1" runat="server" />
     </div>
     </form>
 </body>
