@@ -7,10 +7,6 @@ namespace scottwebapp
 {
     public class Class1
     {
-        this is the student casss
-            anoghter class has been added
-
-                added again
-                    another continued;;;
+        public namespace toreddf;
     }
 }
