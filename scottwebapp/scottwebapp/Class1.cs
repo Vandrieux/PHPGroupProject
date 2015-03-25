@@ -7,5 +7,6 @@ namespace scottwebapp
 {
     public class Class1
     {
+        this is the student casss
     }
 }
